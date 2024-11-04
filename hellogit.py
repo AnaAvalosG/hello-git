@@ -1,1 +1,2 @@
-ECHO est  activado.
+
+print("NEW Hello git!")
